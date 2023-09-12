@@ -1,0 +1,8 @@
+3799 [Test worker] INFO  org.ait.demowebshop.TestBase -- Start test
+10005 [Test worker] INFO  org.ait.demowebshop.TestBase -- Stop test
+10030 [Test worker] INFO  org.ait.demowebshop.TestBase -- Start test
+22765 [Test worker] INFO  org.ait.demowebshop.TestBase -- Stop test
+22769 [Test worker] INFO  org.ait.demowebshop.TestBase -- Start test
+25345 [Test worker] INFO  org.ait.demowebshop.TestBase -- Stop test
+25347 [Test worker] INFO  org.ait.demowebshop.TestBase -- Start test
+25399 [Test worker] INFO  org.ait.demowebshop.TestBase -- Stop test
