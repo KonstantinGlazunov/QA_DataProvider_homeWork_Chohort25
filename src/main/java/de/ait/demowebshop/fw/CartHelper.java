@@ -20,6 +20,7 @@ public class CartHelper  extends HelperBaseShop{
         WebElement recipientNameField = driver.findElement(By.cssSelector("#giftcard_2_RecipientName")); //проверяем поля giftcard
         if (recipientNameField != null) {
             type("#giftcard_2_RecipientName", "Recipient Name");
+
             type("#giftcard_2_RecipientEmail", "recepient@email.qq");
         }
     }

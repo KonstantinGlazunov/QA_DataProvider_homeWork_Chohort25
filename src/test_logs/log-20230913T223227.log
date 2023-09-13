@@ -1,0 +1,19 @@
+727  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\kglaz\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+3112 [main] INFO  org.ait.demowebshop.TestBase -- Start test PositiveRegistrationNewUserTestFromDataProviderWithCsv
+6221 [main] INFO  org.ait.demowebshop.TestBase -- PASSED: PositiveRegistrationNewUserTestFromDataProviderWithCsv
+6222 [main] INFO  org.ait.demowebshop.TestBase -- Stop test
+6223 [main] ERROR org.ait.demowebshop.TestBase -- ************************************************
+6227 [main] INFO  org.ait.demowebshop.TestBase -- Start test PositiveRegistrationNewUserTestFromDataProviderWithCsv
+19495 [main] INFO  org.ait.demowebshop.TestBase -- PASSED: PositiveRegistrationNewUserTestFromDataProviderWithCsv
+19497 [main] INFO  org.ait.demowebshop.TestBase -- Stop test
+19498 [main] ERROR org.ait.demowebshop.TestBase -- ************************************************
+19502 [main] INFO  org.ait.demowebshop.TestBase -- Start test PositiveRegistrationNewUserTestFromDataProviderWithCsv
+32206 [main] INFO  org.ait.demowebshop.TestBase -- PASSED: PositiveRegistrationNewUserTestFromDataProviderWithCsv
+32207 [main] INFO  org.ait.demowebshop.TestBase -- Stop test
+32208 [main] ERROR org.ait.demowebshop.TestBase -- ************************************************
+32214 [main] INFO  org.ait.demowebshop.TestBase -- Start test PositiveRegistrationNewUserTestFromDataProviderWithCsv
+46832 [main] INFO  org.ait.demowebshop.TestBase -- PASSED: PositiveRegistrationNewUserTestFromDataProviderWithCsv
+46833 [main] INFO  org.ait.demowebshop.TestBase -- Stop test
+46833 [main] ERROR org.ait.demowebshop.TestBase -- ************************************************

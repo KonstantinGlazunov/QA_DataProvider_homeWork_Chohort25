@@ -1,0 +1,7 @@
+878  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\kglaz\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+3615 [main] INFO  org.ait.demowebshop.TestBase -- Start test positiveLoginTestWithScreenCast
+9514 [main] INFO  org.ait.demowebshop.TestBase -- PASSED: positiveLoginTestWithScreenCast
+9514 [main] INFO  org.ait.demowebshop.TestBase -- Stop test
+9515 [main] ERROR org.ait.demowebshop.TestBase -- ************************************************

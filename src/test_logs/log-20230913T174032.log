@@ -1,0 +1,7 @@
+729  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\kglaz\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+3137 [main] INFO  org.ait.demowebshop.TestBase -- Start test positiveAddProductBookInCart
+19149 [main] INFO  org.ait.demowebshop.TestBase -- FILED: positiveAddProductBookInCart Screenshot: D:\ProgrammingSchool\QA\Lesson_9\demowebshop\screenshots\screen1694619651.png
+19150 [main] INFO  org.ait.demowebshop.TestBase -- Stop test
+19150 [main] ERROR org.ait.demowebshop.TestBase -- ************************************************

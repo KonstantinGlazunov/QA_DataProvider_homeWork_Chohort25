@@ -75,4 +75,9 @@ public class UserHelperShop extends HelperBaseShop{
     }
 
 
+    public void clickOnLoginButtonForScreenCast() {
+        pause(500);
+        click(By.cssSelector("input[value = 'Log in']"));
+    }
+
 }

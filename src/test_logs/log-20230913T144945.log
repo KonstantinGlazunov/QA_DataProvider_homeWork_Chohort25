@@ -1,0 +1,7 @@
+766  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\kglaz\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+3485 [main] INFO  org.ait.demowebshop.TestBase -- Start test isWelcomeComponentPresent
+25013 [main] INFO  org.ait.demowebshop.TestBase -- FILED: isWelcomeComponentPresent Screenshot: D:\ProgrammingSchool\QA\Lesson_9\demowebshop\screenshots\screen1694609410.png
+25013 [main] INFO  org.ait.demowebshop.TestBase -- Stop test
+25014 [main] ERROR org.ait.demowebshop.TestBase -- ************************************************

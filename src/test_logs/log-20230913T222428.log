@@ -1,0 +1,19 @@
+739  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\kglaz\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+3208 [main] INFO  org.ait.demowebshop.TestBase -- Start test PositiveRegistrationNewUserTestFromDataProviderWithCsv
+5742 [main] INFO  org.ait.demowebshop.TestBase -- PASSED: PositiveRegistrationNewUserTestFromDataProviderWithCsv
+5743 [main] INFO  org.ait.demowebshop.TestBase -- Stop test
+5744 [main] ERROR org.ait.demowebshop.TestBase -- ************************************************
+5750 [main] INFO  org.ait.demowebshop.TestBase -- Start test PositiveRegistrationNewUserTestFromDataProviderWithCsv
+29898 [main] INFO  org.ait.demowebshop.TestBase -- FILED: PositiveRegistrationNewUserTestFromDataProviderWithCsv Screenshot: D:\ProgrammingSchool\QA\Lesson_9\demowebshop\screenshots\screen1694636697.png
+29899 [main] INFO  org.ait.demowebshop.TestBase -- Stop test
+29899 [main] ERROR org.ait.demowebshop.TestBase -- ************************************************
+29901 [main] INFO  org.ait.demowebshop.TestBase -- Start test PositiveRegistrationNewUserTestFromDataProviderWithCsv
+43956 [main] INFO  org.ait.demowebshop.TestBase -- FILED: PositiveRegistrationNewUserTestFromDataProviderWithCsv Screenshot: D:\ProgrammingSchool\QA\Lesson_9\demowebshop\screenshots\screen1694636711.png
+43956 [main] INFO  org.ait.demowebshop.TestBase -- Stop test
+43956 [main] ERROR org.ait.demowebshop.TestBase -- ************************************************
+43958 [main] INFO  org.ait.demowebshop.TestBase -- Start test PositiveRegistrationNewUserTestFromDataProviderWithCsv
+56335 [main] INFO  org.ait.demowebshop.TestBase -- FILED: PositiveRegistrationNewUserTestFromDataProviderWithCsv Screenshot: D:\ProgrammingSchool\QA\Lesson_9\demowebshop\screenshots\screen1694636724.png
+56336 [main] INFO  org.ait.demowebshop.TestBase -- Stop test
+56336 [main] ERROR org.ait.demowebshop.TestBase -- ************************************************

@@ -1,0 +1,15 @@
+1116 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\kglaz\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+4092 [main] INFO  org.ait.demowebshop.TestBase -- Start test PositiveRegistrationNewUserTestFromDataProvider
+6411 [main] INFO  org.ait.demowebshop.TestBase -- PASSED: PositiveRegistrationNewUserTestFromDataProvider
+6412 [main] INFO  org.ait.demowebshop.TestBase -- Stop test
+6412 [main] ERROR org.ait.demowebshop.TestBase -- ************************************************
+6415 [main] INFO  org.ait.demowebshop.TestBase -- Start test PositiveRegistrationNewUserTestFromDataProvider
+30351 [main] INFO  org.ait.demowebshop.TestBase -- FILED: PositiveRegistrationNewUserTestFromDataProvider Screenshot: D:\ProgrammingSchool\QA\Lesson_9\demowebshop\screenshots\screen1694621586.png
+30352 [main] INFO  org.ait.demowebshop.TestBase -- Stop test
+30352 [main] ERROR org.ait.demowebshop.TestBase -- ************************************************
+30356 [main] INFO  org.ait.demowebshop.TestBase -- Start test PositiveRegistrationNewUserTestFromDataProvider
+43415 [main] INFO  org.ait.demowebshop.TestBase -- FILED: PositiveRegistrationNewUserTestFromDataProvider Screenshot: D:\ProgrammingSchool\QA\Lesson_9\demowebshop\screenshots\screen1694621600.png
+43415 [main] INFO  org.ait.demowebshop.TestBase -- Stop test
+43415 [main] ERROR org.ait.demowebshop.TestBase -- ************************************************
