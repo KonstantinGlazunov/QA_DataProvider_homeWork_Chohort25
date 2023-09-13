@@ -13,6 +13,6 @@ public class HomePageHelperShop extends HelperBaseShop{
     }
 
     public boolean isWelcomePresent() {
-        return isElementPresent(By.xpath("//h2[contains(text(),'Welcome to our store!!!!!!!!!!!!!!!!!!!!!')]"));
+        return isElementPresent(By.xpath("//h2[contains(text(),'Welcome to our store!')]"));
     }
 }

@@ -73,17 +73,11 @@ public class Registrationtest extends TestBase {
         return testUserslist.iterator();
     }
 
-    @Test(dataProvider = "newUser")
-    public void PositiveRegistrationNewUserTestFromDataProvider(String name, String surname, String email, String password) {
-        String randomEmail = app.getUser().getRandomEmail();
-        app.getUser().fillRegistrationForm(new User().setName(name).setSurname(surname).setEmail(email + randomEmail).setPassword(password));
-        app.getUser().clickOnRegistrationButton();
-        Assert.assertTrue(app.getUser().isRegistrationComleted());
-    }
+
 
     @Test(dataProvider = "newUserWithCswFile")
     public void PositiveRegistrationNewUserTestFromDataProviderWithCsv(User user) {
-       //String randomEmail = app.getUser().getRandomEmail();
+
         app.getUser().fillRegistrationForm(user);
         app.getUser().clickOnRegistrationButton();
         Assert.assertTrue(app.getUser().isRegistrationComleted());

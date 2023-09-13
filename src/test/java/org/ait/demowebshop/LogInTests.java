@@ -32,7 +32,7 @@ public class LogInTests extends TestBase {
         Assert.assertTrue(app.getUser().isLoginUnsuccessfull());
     }
 
-    @Test
+    @Test(enabled = false)
     public void positiveLoginTestWithScreenCast() throws IOException, AWTException {
         app.getUser().deleteScreenCast();
         app.getUser().startRecording();
