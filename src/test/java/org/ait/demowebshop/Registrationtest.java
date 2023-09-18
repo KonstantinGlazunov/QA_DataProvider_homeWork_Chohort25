@@ -2,6 +2,7 @@ package org.ait.demowebshop;
 
 
 import de.ait.demowebshop.models.User;
+import de.ait.demowebshop.utils.DataProviders;
 import org.openqa.selenium.By;
 import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
@@ -56,26 +57,11 @@ public class Registrationtest extends TestBase {
 
     }
 
-    @DataProvider
-    public Iterator<Object[]> newUserWithCswFile() throws IOException {
-        String randomEmail = app.getUser().getRandomEmail();;
-        List<Object[]> testUserslist = new ArrayList<>();
-        BufferedReader reader = new BufferedReader(new FileReader(new File("src/test/resources/users.csv")));
-        String line = reader.readLine();
-        while (line != null) {
-            String[] split = line.split(",");
-            testUserslist.add(new Object[]{new User().setName(split[0])
-                    .setSurname(split[1])
-                    .setEmail(split[2]+randomEmail)
-                    .setPassword(split[3])});
-            line = reader.readLine();
-        }
-        return testUserslist.iterator();
-    }
 
 
 
-    @Test(dataProvider = "newUserWithCswFile")
+
+    @Test(dataProvider = "newUserWithCswFile", dataProviderClass = DataProviders.class)
     public void PositiveRegistrationNewUserTestFromDataProviderWithCsv(User user) {
 
         app.getUser().fillRegistrationForm(user);

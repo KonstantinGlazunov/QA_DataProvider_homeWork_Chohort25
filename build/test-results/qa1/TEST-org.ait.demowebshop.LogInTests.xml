@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.ait.demowebshop.LogInTests" tests="2" skipped="2" failures="0" errors="0" timestamp="2023-09-11T22:15:43" hostname="LSDGLIDER2" time="0.002">
+  <properties/>
+  <testcase name="negativeLoginTest" classname="org.ait.demowebshop.LogInTests" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="positiveLoginTest" classname="org.ait.demowebshop.LogInTests" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,51 @@
+909  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\kglaz\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+3463 [main] INFO  org.ait.demowebshop.TestBase -- Start test positiveAddProductBookInCart
+21110 [main] INFO  org.ait.demowebshop.TestBase -- FILED: positiveAddProductBookInCart Screenshot: D:\ProgrammingSchool\QA\Lesson_9\demowebshop\screenshots\screen1694639614.png
+21110 [main] INFO  org.ait.demowebshop.TestBase -- Stop test
+21111 [main] ERROR org.ait.demowebshop.TestBase -- ************************************************
+21113 [main] INFO  org.ait.demowebshop.TestBase -- Start test negativeLoginTest
+34520 [main] INFO  org.ait.demowebshop.TestBase -- PASSED: negativeLoginTest
+34521 [main] INFO  org.ait.demowebshop.TestBase -- Stop test
+34521 [main] ERROR org.ait.demowebshop.TestBase -- ************************************************
+34524 [main] INFO  org.ait.demowebshop.TestBase -- Start test positiveLoginTest
+37552 [main] INFO  org.ait.demowebshop.TestBase -- PASSED: positiveLoginTest
+37553 [main] INFO  org.ait.demowebshop.TestBase -- Stop test
+37554 [main] ERROR org.ait.demowebshop.TestBase -- ************************************************
+37563 [main] INFO  org.ait.demowebshop.TestBase -- Start test positiveLoginTestWithScreenCast
+57072 [main] INFO  org.ait.demowebshop.TestBase -- PASSED: positiveLoginTestWithScreenCast
+57072 [main] INFO  org.ait.demowebshop.TestBase -- Stop test
+57073 [main] ERROR org.ait.demowebshop.TestBase -- ************************************************
+57074 [main] INFO  org.ait.demowebshop.TestBase -- Start test PositiveRegistrationNewUserTest
+70124 [main] INFO  org.ait.demowebshop.TestBase -- PASSED: PositiveRegistrationNewUserTest
+70125 [main] INFO  org.ait.demowebshop.TestBase -- Stop test
+70125 [main] ERROR org.ait.demowebshop.TestBase -- ************************************************
+70138 [main] INFO  org.ait.demowebshop.TestBase -- Start test PositiveRegistrationNewUserTestFromDataProviderWithCsv
+83728 [main] INFO  org.ait.demowebshop.TestBase -- PASSED: PositiveRegistrationNewUserTestFromDataProviderWithCsv
+83728 [main] INFO  org.ait.demowebshop.TestBase -- Stop test
+83729 [main] ERROR org.ait.demowebshop.TestBase -- ************************************************
+83734 [main] INFO  org.ait.demowebshop.TestBase -- Start test PositiveRegistrationNewUserTestFromDataProviderWithCsv
+96851 [main] INFO  org.ait.demowebshop.TestBase -- PASSED: PositiveRegistrationNewUserTestFromDataProviderWithCsv
+96851 [main] INFO  org.ait.demowebshop.TestBase -- Stop test
+96851 [main] ERROR org.ait.demowebshop.TestBase -- ************************************************
+96853 [main] INFO  org.ait.demowebshop.TestBase -- Start test PositiveRegistrationNewUserTestFromDataProviderWithCsv
+109716 [main] INFO  org.ait.demowebshop.TestBase -- PASSED: PositiveRegistrationNewUserTestFromDataProviderWithCsv
+109716 [main] INFO  org.ait.demowebshop.TestBase -- Stop test
+109716 [main] ERROR org.ait.demowebshop.TestBase -- ************************************************
+109719 [main] INFO  org.ait.demowebshop.TestBase -- Start test PositiveRegistrationNewUserTestFromDataProviderWithCsv
+122853 [main] INFO  org.ait.demowebshop.TestBase -- PASSED: PositiveRegistrationNewUserTestFromDataProviderWithCsv
+122853 [main] INFO  org.ait.demowebshop.TestBase -- Stop test
+122853 [main] ERROR org.ait.demowebshop.TestBase -- ************************************************
+122854 [main] INFO  org.ait.demowebshop.TestBase -- Start test registrationExistedUserTest
+135740 [main] INFO  org.ait.demowebshop.TestBase -- PASSED: registrationExistedUserTest
+135740 [main] INFO  org.ait.demowebshop.TestBase -- Stop test
+135741 [main] ERROR org.ait.demowebshop.TestBase -- ************************************************
+135743 [main] INFO  org.ait.demowebshop.TestBase -- Start test registrationUserWithoutEmail
+137014 [main] INFO  org.ait.demowebshop.TestBase -- PASSED: registrationUserWithoutEmail
+137014 [main] INFO  org.ait.demowebshop.TestBase -- Stop test
+137014 [main] ERROR org.ait.demowebshop.TestBase -- ************************************************
+137015 [main] INFO  org.ait.demowebshop.TestBase -- Start test isWelcomeComponentPresent
+158152 [main] INFO  org.ait.demowebshop.TestBase -- FILED: isWelcomeComponentPresent Screenshot: D:\ProgrammingSchool\QA\Lesson_9\demowebshop\screenshots\screen1694639751.png
+158152 [main] INFO  org.ait.demowebshop.TestBase -- Stop test
+158152 [main] ERROR org.ait.demowebshop.TestBase -- ************************************************
