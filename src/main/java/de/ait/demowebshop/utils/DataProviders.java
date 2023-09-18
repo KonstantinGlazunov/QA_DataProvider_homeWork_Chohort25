@@ -1,6 +1,8 @@
 package de.ait.demowebshop.utils;
 
+import de.ait.demowebshop.fw.ApplicationShopManager;
 import de.ait.demowebshop.models.User;
+import org.openqa.selenium.remote.BrowserType;
 import org.testng.annotations.DataProvider;
 
 import java.io.BufferedReader;
@@ -12,7 +14,7 @@ import java.util.Iterator;
 import java.util.List;
 
 public class DataProviders {
-
+    protected static ApplicationShopManager app = new ApplicationShopManager(System.getProperty("browser", BrowserType.CHROME ));
     @DataProvider
     public Iterator<Object[]> newUserWithCswFile() throws IOException {
         String randomEmail = app.getUser().getRandomEmail();;
